@@ -107,3 +107,5 @@ For direct PostgreSQL schema management, set DATABASE_URL and run alembic upgrad
 ## Roadmap
 
 Telegram WebApp authentication, paginated wardrobe browsing, Telegram clothing editing, richer occasion rules, a direct SQLAlchemy/Alembic PostgreSQL adapter, and richer feedback analytics.
+
+Hello there

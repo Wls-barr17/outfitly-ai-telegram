@@ -2,7 +2,7 @@
 
 **Your wardrobe. Your weather. Your outfit.**
 
-Outfitly.AI is a Telegram personal stylist MVP. It stores a user's wardrobe in private Supabase Storage, classifies uploaded clothing with Gemini, and builds deterministic outfit recommendations from owned items and current Open-Meteo weather.
+Outfitly.AI is a Telegram personal stylist Chatbot. It stores a user's wardrobe in private Supabase Storage, classifies uploaded clothing with Gemini, and builds deterministic outfit recommendations from owned items and current Open-Meteo weather.
 
 ## Features
 
